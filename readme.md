@@ -1,8 +1,8 @@
 ## HellcatMod Script - Features and Description
 
-**Executors**: All Executors
-**Version**: 1.0
-**Target Platform**: Mobile
+- **Executors**: All Executors
+- **Version**: 1.0
+- **Target Platform**: Mobile
 
 ### General Features
 - **Anti AFK**: Prevents players from being kicked for being idle by simulating activity.
