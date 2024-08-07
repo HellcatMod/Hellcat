@@ -1,4 +1,8 @@
-## HellcatMod Script V1.0 - Features and Description
+## HellcatMod Script - Features and Description
+
+**Executors**: All Executors
+**Version**: 1.0
+**Target Platform**: Mobile
 
 ### General Features
 - **Anti AFK**: Prevents players from being kicked for being idle by simulating activity.
@@ -22,6 +26,9 @@
 - **Night Mode**: Changes the game environment to a darker setting for a night-time effect.
 - **ESP Player**: Highlights players with visual effects, making them more visible through walls and other obstacles.
 
+### Animation Pack
+- **Animation Choose**: There are 24 animation packs available and they are easy to use.
+
 ---
 
-Feel free to adjust the details or add more specifics based on your script's implementation and capabilities!
+This script will continue to develop and wait for the newest features that will come in the next version.
