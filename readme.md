@@ -1,5 +1,3 @@
----
-
 ## HellcatMod Script V1.0 - Features and Description
 
 ### General Features
